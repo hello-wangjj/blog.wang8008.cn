@@ -27,7 +27,7 @@ favicon:
   #ms_browserconfig: /images/browserconfig.xml
 
 # Set default keywords (Use a comma to separate)
-keywords: "Hexo, WangJJ"
+keywords: "Hello, WangJJ"
 
 # Set rss to false to disable feed link.
 # Leave rss as empty to use site's feed link.
@@ -347,7 +347,7 @@ han: false
 #swiftype_key:
 
 # Baidu Analytics ID
-baidu_analytics: aacbb5fd0fa665357924df4c339006bc
+baidu_analytics: 9598801df88a19fb4f264173585fea6a
 
 # Duoshuo ShortName
 #duoshuo_shortname:
