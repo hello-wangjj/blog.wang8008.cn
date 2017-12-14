@@ -26,6 +26,8 @@ categories: 可视化
 
 ## Rule 10: Get the Right Tool
 
+<!-- more -->
+
 ```
 import matplotlib.pyplot as plt
 import numpy as np
