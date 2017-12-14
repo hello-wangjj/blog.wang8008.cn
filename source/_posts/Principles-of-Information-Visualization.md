@@ -5,9 +5,7 @@ tags:
 - Python
 - Matplotlib
 - MachineLearning
-categories: 
-- Python
-- Matplotlib
+categories:
 - 可视化
 ---
 ## Inroduction
